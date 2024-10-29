@@ -64,7 +64,7 @@ const filteredList = computed(() =>{
 
         <div class="container">
             <h1 class="title">
-                Todo List
+                Todo List Application
             </h1>
             <hr />
             <div class="input-group">
