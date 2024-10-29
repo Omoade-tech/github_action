@@ -70,7 +70,7 @@ const filteredList = computed(() =>{
             <div class="input-group">
                 <input type="text" class="form-control" v-model="userInput" @keyup.enter="addItem" />
 
-                <button clasgits="btn-success" @click="addItem">
+                <button class="btn-success" @click="addItem">
                     Add todo
                 </button>
             </div>
